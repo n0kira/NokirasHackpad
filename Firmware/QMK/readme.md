@@ -1,9 +1,5 @@
 # nokira_hackpad
 
-![nokira_hackpad](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
-
 * Keyboard Maintainer: [Mattia](https://github.com/n0kira)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
